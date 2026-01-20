@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Matheus Melo
+# 👋 Olá, eu sou o Matheus Mello
 
 🎓 Estudante de tecnologia com foco em *Desenvolvimento Back-end*, atualmente em formação e em constante evolução técnica.
 
