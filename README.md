@@ -71,7 +71,7 @@ Tecnoligias ultilizadas:
 
 • MySQL criando e manipulando banco de dados - Impacta
 
-• imersão Dados com Python - Alura
+• Imersão Dados com Python - Alura
 
 ---
 
