@@ -64,6 +64,7 @@ Tecnoligias ultilizadas:
 🏆 Certificados
 
 • Java COMPLETO Programação Orientada a objetos - Udemy
+
 • Java Programmer - Impacta 
 
 • AWS Cloud Practitioner essentials - Amazon Web Services
