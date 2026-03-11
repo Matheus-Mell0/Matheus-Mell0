@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Matheus</h1>
 
 <h3 align="center">
-🎓 Estudante de Sistemas de Informação • 💻 Backend Java • ☁️ Cloud AWS
+desenvolvimento backend | estudante de Sistemas de Informação | Java • AWS cloud 
 </h3>
 
 <p align="center">
