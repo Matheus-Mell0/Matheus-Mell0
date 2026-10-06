@@ -34,7 +34,6 @@ Aberto a oportunidades de aprendizado, estágios e projetos que contribuam para 
 ![JavaFX](https://img.shields.io/badge/JavaFX-UI-green?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-Framework-6DB33F?style=for-the-badge)
 ![JPA](https://img.shields.io/badge/JPA-Persistence-blue?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge)
 
@@ -60,7 +59,7 @@ Tecnoligias ultilizadas:
 ![CSS](https://img.shields.io/badge/CSS-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧮 [Estacionamento em Java](https://github.com/Matheus-Mell0/calculadora-java)
+### 🧮 [Estacionamento em Java](https://github.com/Matheus-Mell0/estacionamento)
 
 sistema gerencial de veículos em um estacionamento, entrada,saída,resumo,relatório e valor a pagar.
 
