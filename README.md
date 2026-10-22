@@ -41,46 +41,21 @@ Aberto a oportunidades de aprendizado, estágios e projetos que contribuam para 
 
 ## 📌 Projetos em destaque
 
-### 🧮 [Calculadora em Java](https://github.com/Matheus-Mell0/calculadora-em-java)
+### 🚧 [Pedidos API](https://github.com/Matheus-Mell0/pedidos) (em andamento)
+API REST de controle de pedidos de produção.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Aplicação de calculadora desenvolvida em Java para praticar lógica de programação e operações matemáticas.
+### 🅿️ [Estacionamento em Java](https://github.com/Matheus-Mell0/estacionamento)
+Sistema de controle de veículos: entrada, saída, relatório e valor a pagar.
 
-Tecnologias utilizadas:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 👤 [portfólio profissional](https://github.com/Matheus-Mell0/portfolio)
-
-portfólio como desenvolvedor, habilidades e projetos
-
-Tecnoligias ultilizadas:
-
-![HTML](https://img.shields.io/badge/HTML-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🧮 [Estacionamento em Java](https://github.com/Matheus-Mell0/estacionamento)
-
-sistema gerencial de veículos em um estacionamento, entrada,saída,resumo,relatório e valor a pagar.
-
-Tecnologias utilizadas:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
----
-
-🏆 Certificados
-
-• Java COMPLETO Programação Orientada a objetos - Udemy
-
-• Java Programmer - Impacta 
-
-• AWS Cloud Practitioner essentials - Amazon Web Services
-
-• MySQL criando e manipulando banco de dados - Impacta
-
-• Imersão Dados com Python - Alura
-
----
+## 🏆 Certificados
+- Java Programmer, Impacta
+- MySQL: criando e manipulando banco de dados, Impacta
+- Java Completo (POO), Udemy
+- Imersão Dados com Python, Alura
+- AWS Cloud Practitioner Essentials (curso de treinamento), AWS
 
 <p align="center">
 
